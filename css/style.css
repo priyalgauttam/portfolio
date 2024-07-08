@@ -482,9 +482,9 @@ form textarea {
   .contact-button{
     margin-left: 25%;
   }
-.bars-box{
+  .bars-box{
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
   }
 }
