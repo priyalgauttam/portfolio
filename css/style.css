@@ -463,6 +463,9 @@ form textarea {
     --big-font: 1.7rem;
     --medium-font: 1.1rem;
   }
+.home-img img{
+	width:100%;
+}
   .home-text span {
     font-size: 1rem;
   }
