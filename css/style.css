@@ -395,6 +395,9 @@ form textarea {
     display: initial;
     color: var(--text-color);
   }
+	#home{
+    display: block;
+  }
   header .navbar {
     position: absolute;
     top: -500px;
@@ -432,9 +435,7 @@ form textarea {
   }
   .home-img {
     order: initial;
-	width:100%;
-
-	  
+  
   }
   .about-container {
     grid-template-columns: 1fr;
@@ -492,5 +493,8 @@ form textarea {
     display: flex;
     justify-content:center;
     align-items: center;
+  }
+	#home{
+    display: block;
   }
 }
