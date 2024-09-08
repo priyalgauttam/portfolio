@@ -498,4 +498,7 @@ form textarea {
 	#home{
     display: block;
   }
+#about{
+    margin-top: -200px;
+  }
 }
