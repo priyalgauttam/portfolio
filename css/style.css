@@ -432,6 +432,9 @@ form textarea {
   }
   .home-img {
     order: initial;
+	width:100%;
+
+	  
   }
   .about-container {
     grid-template-columns: 1fr;
